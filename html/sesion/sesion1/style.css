@@ -33,3 +33,9 @@ body {
 .description i {
     color: #939393;
 }
+.color1 {
+    color: red;
+}
+#color2 {
+    color: aqua;
+}
