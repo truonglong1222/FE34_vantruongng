@@ -97,6 +97,8 @@ footer {
 }
 
 .input_1 {
+    margin-top: 113px;
+    margin-bottom: 65px;
     width: 217px;
     height: 64px;
     background: linear-gradient(105.16deg, #FF9700 15.31%, #FFC92C 87.35%);
