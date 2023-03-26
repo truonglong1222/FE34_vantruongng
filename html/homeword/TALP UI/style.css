@@ -1,13 +1,14 @@
 body {
   margin: 0;
   padding: 0;
+  padding-left: 140.92px;
+
 }
 
 header {
   position: relative;
   width: 1361.39px;
-  height: 1018px;
-  padding-left: 140.92px;
+  height: 875px;
 }
 
 .decore img {
@@ -245,14 +246,46 @@ h1 {
   padding-left: 132.83px;
 }
 
-main {
-  margin-top: -149px;
-}
+main {}
 
 .services {
-  margin-top: 97px;
-  margin-left: 154px;
+  /* margin-top: 97px;
+  margin-left: 154px; */
   width: 1228px;
   height: 525px;
-  background-color: #d808c6;
+  background-color: #FFF1DA;
 }
+
+.decore_1 {
+  max-width: 100%;
+  width: 153px;
+  height: auto;
+  position: absolute;
+  right: 108px;
+}
+
+.services_text {
+  padding-top: 8px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-align: center;
+}
+
+.services_text1 {
+  margin: 0;
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 64px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: capitalize;
+}
+
