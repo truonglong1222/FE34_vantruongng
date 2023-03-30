@@ -1,47 +1,35 @@
 body {
     margin: 0;
+    max-width: 1200px;
+    margin: 100px auto;
 }
 
-.container {
-    /* height: 500px;
-    width: 831px; */
-    margin-left: 83px;
-    margin-top: 107px;
-    margin-right: 84px;
-    background: #FFFFFF;
+header {
     box-shadow: 0px 4px 35px rgb(77 77 255 / 15%);
     border-radius: 20px;
+    padding: 0 63px 28px 62px;
 }
 
 h1 {
-    padding-left: 48px;
     padding-top: 57px;
-    padding-bottom: 15px;
-    font-family: 'Sora';
-    font-style: normal;
     font-weight: 700;
     font-size: 45px;
     line-height: 123.4%;
     /* or 56px */
 
-    display: flex;
-    align-items: center;
-
-    /* 4 */
-
-    color: #001B4B;
-
     text-shadow: 0px 8px 8px rgba(0, 0, 0, 0.48);
 }
 
 .line_1 {
+    width: 1000px;
     opacity: 0.1;
     border: 1px solid #000000;
     transform: matrix(1, -0.01, 0.01, 1, 0, 0);
 }
 
-.word_1 {
-    padding: 67px 87px 61px 37px;
+.text_1 {
+    padding: 67px 87px 61px 0;
+    max-width: 1075px;
     /* padding-top: 67px;
     padding-right: 87px;
     padding-bottom: 61px;
